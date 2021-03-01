@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 b3 67 d8 51 9f d3 16-ce f9 94 74 dc b9 66 98</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Rocket.vmx</vmxPathName></VM></Foundry>

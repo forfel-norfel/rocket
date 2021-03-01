@@ -1,0 +1,20 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=fffffffe
+parentCID=ffffffff
+createType="monolithicFlat"
+
+# Extent description
+RW 2097152 FLAT "Rocket.dmg" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "2080"
+ddb.geometry.heads = "16"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "64896f5992fea19efb550e7ffffffffe"
+ddb.uuid = "60 00 C2 9d 07 fd 7e 59-bc 4c 36 ac ed e3 c6 af"
+ddb.virtualHWVersion = "18"
