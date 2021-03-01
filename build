@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -e
+
+cd `dirname "$0"`
+
+IMG=Rocket.vmwarevm/Rocket.dmg
+
+rm -f $IMG
+
+hdiutil create -sectors 2097152 -layout GPTSPUD -fs "MS-DOS FAT32" -volname ROCKET -srcfolder root -format UDRW $IMG

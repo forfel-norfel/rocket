@@ -1,0 +1,9 @@
+::sysinit:/etc/startup.sh
+tty1::respawn:/bin/sh
+::ctrlaltdel:/sbin/reboot
+::shutdown:/sbin/swapoff -a
+::shutdown:/bin/umount -a -r
+::restart:/sbin/init
+tty2::askfirst:/bin/sh
+tty3::askfirst:/bin/sh
+
