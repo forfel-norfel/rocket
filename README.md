@@ -1,6 +1,8 @@
 # Rocket
 the fastest way to get to mars 🚀🚀🚀
 
+[![awesome urbit badge](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
+
 ### About
 Rocket is a minimal Linux-based OS for hosting Urbit.
 
