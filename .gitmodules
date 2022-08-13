@@ -4,3 +4,6 @@
 [submodule "upstream/linux-firmware"]
 	path = upstream/linux-firmware
 	url = https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+[submodule "upstream/wireless-regdb"]
+	path = upstream/wireless-regdb
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/sforshee/wireless-regdb.git
