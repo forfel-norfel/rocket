@@ -1,3 +1,6 @@
 [submodule "upstream/linux"]
 	path = upstream/linux
 	url = ../../gregkh/linux.git
+[submodule "upstream/linux-firmware"]
+	path = upstream/linux-firmware
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
